@@ -1,0 +1,21 @@
+{
+  "name": "js1k2019",
+  "version": "0.0.1",
+  "description": "Discrete Fourier Transform. An entry for the JS1K-2019 competition",
+  "main": "''",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "serglider",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-open": "^2.0.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify-es": "^1.0.4"
+  },
+  "dependencies": {}
+}

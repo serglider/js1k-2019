@@ -1,0 +1,42 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  },
+  "extends": "eslint:recommended",
+  "rules": {
+      "no-console": 0,
+      "no-global-assign": 0,
+      "no-empty": 0
+      },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+    "globals": {
+        "a": false,
+        "b": false,
+        "c": false,
+        "d": false,
+        "e": false,
+        "f": false,
+        "w": false,
+        "u": false,
+        "o": false,
+        "p": false,
+        "j": false,
+        "r": false,
+        "s": false,
+        "z": false,
+        "k": false,
+        "g": false,
+        "h": false,
+        "x": false,
+        "i": false,
+        "m": false,
+        "l": false,
+        "y": false,
+        "L": false
+    }
+}
